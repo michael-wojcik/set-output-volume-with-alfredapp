@@ -4,7 +4,7 @@
 
 ## TL;DR
 
-Set volume from 0-100:
+Set volume from `0-100`:
 ```
 v{INTEGER}
 ```
